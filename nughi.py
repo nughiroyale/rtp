@@ -2508,7 +2508,7 @@ def bot(op):
                 ko.sendText(msg.to,"SPAM 􀔃􀆶squared up!􏿿")
                 ke.sendText(msg.to,"SPAM 􀔃􀆶squared up!􏿿")
                 ku.sendText(msg.to,"SPAM 􀔃􀆶squared up!􏿿")
-				cl.sendText(msg.to,"SPAM 􀔃􀆶squared up!􏿿")
+		cl.sendText(msg.to,"SPAM 􀔃􀆶squared up!􏿿")
                 ki.sendText(msg.to,"SPAM 􀔃􀆶squared up!􏿿")
                 kk.sendText(msg.to,"SPAM 􀔃􀆶squared up!􏿿")
                 kc.sendText(msg.to,"SPAM 􀔃􀆶squared up!􏿿")
