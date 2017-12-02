@@ -90,7 +90,7 @@ class Talk:
     self.transport.path = self.auth_query_path
 
     qr = self.client.getAuthQrcode(True, "Bot")
-	url = pyqrcode.create("line://au/q/" + qr.verifier)
+    url = pyqrcode.create("line://au/q/" + qr.verifier)
     url.svg('uca-url.svg', scale=1)
     url.eps('uca-url.eps', scale=1)
     print(url.terminal(quiet_zone=1))
